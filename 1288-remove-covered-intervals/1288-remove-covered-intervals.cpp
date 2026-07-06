@@ -11,24 +11,16 @@ public:
             return a[0] < b[0];
         });
 
-        int start = intervals[0][0];
-        int end = intervals[0][1];
-        int count = 0;
-        for (auto interval : intervals) {
+        int ans = 0;
+        int maxEnd = -1;
 
-            if (start <= interval[0] && end >= interval[1]) {
-                count++;
-
-            } else if (end < interval[0]) {
-                start = interval[0];
-                end = interval[1];
-            } else {
-
-                end = interval[1];
+        for (const auto& interval : intervals) {
+            if (interval[1] > maxEnd) {
+                ans++;
+                maxEnd = interval[1];
             }
         }
 
-       
-        return n-(count-1);
+        return ans;
     }
 };
