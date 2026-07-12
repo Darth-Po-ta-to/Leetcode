@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/0075-sort-colors) |
 | [1288-remove-covered-intervals](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Depth-First Search
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/0075-sort-colors) |
 | [1288-remove-covered-intervals](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
 | ------- |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
