@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/0075-sort-colors) |
+| [1260-shift-2d-grid](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Graph Theory
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
