@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/1260-shift-2d-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
