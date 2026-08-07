@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/0050-powx-n) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
