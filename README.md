@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1260-shift-2d-grid](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -81,5 +83,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
