@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -67,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String Matching
 |  |
 | ------- |
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/0050-powx-n) |
+## Greedy
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Darth-Po-ta-to/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
